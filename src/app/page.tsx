@@ -71,12 +71,12 @@ export default function Home() {
             </div>
           </div>
           <a 
-            href="https://pump.fun/coin/4AG81mGbaiMJRfCPgz1z5RCiN5JTH5TDHNWNbD4Tpump"
+            href="https://pump.fun/coin/n8evWbWLwLz1m5B3zQyHmVkwgawtKJN9JK1X7zLpump"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 bg-[#8b0000] hover:bg-[#a00000] rounded-lg text-sm font-semibold transition-colors"
           >
-            $NIETZSCHE
+            $POWER
           </a>
         </div>
       </header>
@@ -193,7 +193,7 @@ export default function Home() {
             </button>
           </div>
           <p className="text-center text-xs text-[#444] mt-3">
-            Your interactions help Nietzsche evolve • Token: 4AG81m...4Tpump
+            Your interactions help Nietzsche evolve • $POWER: n8evWb...pump
           </p>
         </form>
       </div>
